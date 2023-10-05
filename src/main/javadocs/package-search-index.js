@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"brandon.secondscreen","l":"brandon.secondscreen"},{"m":"brandon.secondscreen","l":"Controller"},{"m":"brandon.secondscreen","l":"Model"}];updateSearchResults();
